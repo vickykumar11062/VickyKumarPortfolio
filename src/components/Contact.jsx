@@ -37,7 +37,7 @@ const Contact = () => {
               transition={{ duration: 0.4, delay: 0.5 }}
               className="text-white"
             >
-              123 Main Street, City, Country
+              Jiet College Mogra,Jodhpur, Rajasthan
             </motion.p>
           </div>
           <div className="flex items-center justify-center">
@@ -55,7 +55,7 @@ const Contact = () => {
               transition={{ duration: 0.4, delay: 0.5 }}
               className="text-gray-400"
             >
-              +1 234 567 890
+              +91 9128634469
             </motion.p>
           </div>
           <div className="flex items-center justify-center">
@@ -73,7 +73,7 @@ const Contact = () => {
               transition={{ duration: 0.4, delay: 0.5 }}
               className="text-white-200"
             >
-              your.email@example.com
+              vickykumar1062003@gmail.com
             </motion.p>
           </div>
         </div>
